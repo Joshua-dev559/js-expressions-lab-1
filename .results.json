@@ -5,29 +5,29 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2026-03-26T13:49:14.638Z",
-    "end": "2026-03-26T13:49:15.086Z",
-    "duration": 448
+    "start": "2026-03-26T13:55:35.132Z",
+    "end": "2026-03-26T13:55:35.548Z",
+    "duration": 416
   },
   "tests": [
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_fahrenheit is a floating number",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js tot_temperature_in_fahrenheit is accurate with a tolerance of 0.2 degrees",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_celsius is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js avg_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -73,21 +73,21 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_fahrenheit is a floating number",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js tot_temperature_in_fahrenheit is accurate with a tolerance of 0.2 degrees",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_celsius is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,7 +122,7 @@
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js avg_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
